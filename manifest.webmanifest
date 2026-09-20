@@ -1,0 +1,16 @@
+{
+  "name": "DTB B2 Beruf – Wortschatz Trainer",
+  "short_name": "DTB B2 Beruf",
+  "description": "Deutsch–Türkçe DTB B2 Beruf kelime öğrenme uygulaması",
+  "lang": "tr",
+  "start_url": "./DTB_B2_Beruf_Wortschatz_App.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#83c8aa",
+  "background_color": "#122826",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
